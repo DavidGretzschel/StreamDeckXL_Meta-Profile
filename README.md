@@ -18,8 +18,10 @@ That way, one doesn't have to do the process all at once and has an easier time 
 
 7 modifier groups using the keys ctrl, alt and shift and their combinations.
 Naming-scheme is binary-ascending, counting from 1 to 7.
-ctrl is 1. alt is 2. shift is 4.
-[don't worry about, not important]
+ctrl is 1
+alt is 2
+shift is 4
+[if that doesn't make sense, that's okay. Not terrribly important!]
 
 Each modifier-group has a folder for the 26 characters of the alphabet looking like this:
       yz
