@@ -45,7 +45,7 @@ Guess the StreamDeckXL is just too small ;)
 All Hotkeys have their text above the default-symbol, have font-size 6 (the smallest, so that one can see the labels better)
 and use Microsoft Sans as a font.
 
-## sharing/duplication/copyright/whatever
+## sharing/duplication/copyright/whatever:
 
 No real reason to fork this project, since it's literally only one file (plus my readme).  
 Feel free to host your own modified versions of it, that perhaps use different fonts or use icons.  
