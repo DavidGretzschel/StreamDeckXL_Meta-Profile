@@ -57,5 +57,5 @@ Perhaps I should add some boilerplate garbage here, but I don't feel like doing 
 ## installation:
 
 Click "metaProfile.streamDeckProfile" above this text. Then click Download.
-If you can't find the download button...look harder. 
+If you can't find the download button...look harder.  
 Then figure out how to import a StreamDeck-profile. And do that.
