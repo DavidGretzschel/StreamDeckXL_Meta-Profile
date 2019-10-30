@@ -1,7 +1,7 @@
 # StreamDeckXL_Meta-Profile
 A premade StreamDeckXL-profile which contains all the shortcuts one could possibly want preset.
 
-## Purpose:***
+## purpose:
 To speed up the process of testing all the commands of very complex software (with freely assignable commands).
 The idea is that you can just scroll down a list of 100+ entries and for each commands assign a hotkey very quickly.
 Assigning 300+ commands within a couple minutes otherwise would be rather difficult to do and keep straight.
@@ -14,7 +14,7 @@ Not all programs can use all modifier-groups of course, but in that case you can
 If there's some form of categorization within the programmable command-list, it makes sense to for example assign the modifier-group "alt+shift" to "Edit" and then rename the folder to "Edit".
 That way, one doesn't have to do the process all at once and has an easier time actually using all those hotkeys.
 
-## technical Notes:***
+## technical Notes:
 
 7 modifier groups using the keys ctrl, alt and shift and their combinations.
 Naming-scheme is binary-ascending, counting from 1 to 7.
