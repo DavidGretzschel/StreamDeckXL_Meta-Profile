@@ -54,6 +54,10 @@ I only used stock-icons and I don't think ElGato minds that people would share p
 So to the best of my knowledge, copyright is not an issue.  
 Perhaps I should add some boilerplate garbage here, but I don't feel like doing that at the moment.  
 
+## other projects using this as a base
+https://github.com/DavidGretzschel/TB11-StreamDeck-XL/blob/master/README.md
+
+
 ## installation:
 
 Click "metaProfile.streamDeckProfile" above this text. Then click Download.  
